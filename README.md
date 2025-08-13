@@ -1,4 +1,4 @@
-# 📊 Mastering Big Data Handling - KKK
+# 📊 Mastering Big Data Handling
 
 This project provides a hands-on analysis of strategies for efficiently processing large datasets that exceed typical memory limits. Using a **2.57 GB dataset** on school donations, this work explores and benchmarks various data handling techniques in Python, comparing their performance in terms of **execution time** and **memory usage**.
 <br><br>
