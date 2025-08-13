@@ -66,3 +66,11 @@ This project provides a hands-on analysis of strategies for efficiently processi
 
 5.  **Analysis and Conclusion**: The results were compiled, visualized, and discussed to determine the best strategy and library for various use cases, from rapid prototyping to high-performance processing.
 <br>
+
+
+### 🤝 Team: KKK
+| Name                                                  | Matric No. |
+| :-------------------                                  | :--------- |
+| [Koh Li Hui](https://github.com/kohlihui)             | A22EC0059  |
+| [Koh Su Xuan](https://github.com/kohxuan)             | A22EC0060  |
+<br>
