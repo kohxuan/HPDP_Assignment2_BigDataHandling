@@ -67,6 +67,10 @@ This project provides a hands-on analysis of strategies for efficiently processi
 5.  **Analysis and Conclusion**: The results were compiled, visualized, and discussed to determine the best strategy and library for various use cases, from rapid prototyping to high-performance processing.
 <br>
 
+### 🔗 Assignment Source
+This project was developed as part of the High Performance Data Processing course. The original assignment instructions and source repository with additional documentation can be found here:
+- [*Link to Original Project Repo*](https://github.com/kohxuan/HPDP/tree/main/2425/assignment/A2/bdm/KKK)
+<br>
 
 ### 🤝 Team: KKK
 | Name                                                  | Matric No. |
